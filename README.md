@@ -1,3 +1,4 @@
 An exciting new project!
 
-By: Bhavishya Kumar
+By: Ying-Hsuan Huang
+    Bhavishya Kumar
